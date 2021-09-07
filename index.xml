@@ -5,6 +5,25 @@
     <link>http://hbcxs111.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://hbcxs111.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Sep 2021 16:04:21 +0800</lastBuildDate><atom:link href="http://hbcxs111.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://hbcxs111.github.io/post/first/</link>
+      <pubDate>Tue, 07 Sep 2021 16:04:21 +0800</pubDate>
+      
+      <guid>http://hbcxs111.github.io/post/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://hbcxs111.github.io/about/</link>
+      <pubDate>Tue, 07 Sep 2021 16:04:03 +0800</pubDate>
+      
+      <guid>http://hbcxs111.github.io/about/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
